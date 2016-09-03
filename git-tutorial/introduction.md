@@ -98,6 +98,8 @@
 ### masabun
 
 ### k-masanari
+物性物理の研究をしている修士２年の学生です。
+主に熱の輸送問題を研究しています。
 
 ### ootsukawaiwai
 
