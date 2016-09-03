@@ -97,14 +97,14 @@
 	-数学(パズル的なのが好き)
 	-~~機械学習~~
 
--好きな人
-	-Norbert Wiener<br>
+- 好きな人<br>
+	- Norbert Wiener<br>
 	https://en.wikipedia.org/wiki/Norbert_Wiener
-	-Peter Mann Winkler<br>
+	- Peter Mann Winkler<br>
 	https://en.wikipedia.org/wiki/Peter_Winkler
-	-Alan Mathison Turing<br>
+	- Alan Mathison Turing<br>
 	https://en.wikipedia.org/wiki/Alan_Turing
-	-細田 守<br>
+	- 細田 守<br>
 	https://ja.wikipedia.org/wiki/%E7%B4%B0%E7%94%B0%E5%AE%88
 ### MatsudaChikara
 
