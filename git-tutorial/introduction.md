@@ -72,6 +72,8 @@
 ### sai_kyouto
 
 ### ss_ss
+Java歴は10年ほどで
+最近大きな開発はやってないです
 
 ### nezumi
 
