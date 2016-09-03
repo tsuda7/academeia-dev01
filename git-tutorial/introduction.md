@@ -90,8 +90,22 @@
 #### こんにちは島垣です。<br>
  人生に迷える大学院生です。人生の先輩方、ご指導ご鞭撻のほど、宜しくお願いいたします。<br>
  神奈川県出身の埼玉の温室育ちです。ゆとり系です。<br>
- 好きなことは散歩、キックボクシング、透明骨格標本、数学(パズル的なのが好き)、~~機械学習~~
+ -好きなこと
+ 	-散歩
+	-キックボクシング
+	-透明骨格標本
+	-数学(パズル的なのが好き)
+	-~~機械学習~~
 
+-好きな人
+	-Norbert Wiener
+	https://en.wikipedia.org/wiki/Norbert_Wiener
+	-Peter Mann Winkler
+	https://en.wikipedia.org/wiki/Peter_Winkler
+	-Alan Mathison Turing
+	https://en.wikipedia.org/wiki/Alan_Turing
+	-細田 守
+	https://ja.wikipedia.org/wiki/%E7%B4%B0%E7%94%B0%E5%AE%88
 ### MatsudaChikara
 
 ### terehonooni
