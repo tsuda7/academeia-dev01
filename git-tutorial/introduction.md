@@ -56,12 +56,6 @@
 ## 参加者
 イベントページに登録いただいた順に、ID を記載しています。
 
-### kh5050
-
-### shuntaro_hara_1
-
-### hiro_ina
-
 ### Rock
 はじめまして。RockことToshikiと申します。
 
@@ -82,12 +76,6 @@ Javaは自宅でServletなんかを触っていましたが、仕事で本格的
 
 いつか自分でサービス立ち上げたいなー、なんて密かに思っています^^
 
-### KikkawaSubaru
-
-### tiger_takechan
-
-### sai_kyouto
-
 ### ss_ss
 Java歴は10年ほどで
 最近大きな開発はやってないです
@@ -96,16 +84,6 @@ Java歴は10年ほどで
 * 本名は吉田です。
 * エンジニア暦は2年程度です。
 * 本日はよろしくお願いします。
-
-### messefor
-
-### KatohTakashi
-
-### YoshiyukiHayashi
-
-### wachista
-
-### umeki_t
 
 ### umechan055  
 本名:松尾と言います。　インフラエンジニアで普段はlinuxやWindowsサーバの設計構築を行ってます。  
@@ -132,9 +110,6 @@ Java歴は10年ほどで
 	https://en.wikipedia.org/wiki/Alan_Turing
 	- 細田 守<br>
 	https://ja.wikipedia.org/wiki/%E7%B4%B0%E7%94%B0%E5%AE%88
-### MatsudaChikara
-
-### terehonooni
 
 ### xuydsot
 
@@ -144,7 +119,6 @@ Java歴は10年ほどで
 仕事で開発をする機会はほぼ無いのですが、以前から興味がありました。
 大学の研究分野が遺伝的アルゴリズムだったので、機械学習にも興味があります。
 よろしくお願いします。
-
 
 ### masabun
 
